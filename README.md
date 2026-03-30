@@ -79,7 +79,3 @@ Performance metrics: <br>
 **🚀 Results** <br>
 Tree-based ensemble models outperform linear and regularized regression approaches, demonstrating strong predictive capability for used car valuation. <br>
 
-**👩‍💻 Author** <br>
-Ashani Madhushika <br>
-BSc (Hons) Statistics Undergraduate — University of Colombo <br>
-Interested in Machine Learning, Data Science, and Predictive Modeling. <br>
