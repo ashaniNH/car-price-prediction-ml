@@ -57,11 +57,10 @@ The following models were implemented and compared: <br>
 Performance metrics: <br>
 - Mean Squared Error (MSE) <br>
 - R² Score <br>
-| Model | Train R² | Test R² | Test MSE |
-|:------|:--------:|:-------:|---------:|
-| Multiple Linear Regression | 0.61 | 0.58 | 1400+ |
-| Random Forest | 0.803 | 0.732 | 902.3 |
-| XGBoost | **0.842** | **0.762** | **799.8** |
+| Model | Train R² | Test R² | Test MSE |<br>
+|:------|:--------:|:-------:|---------:| <br>
+| Random Forest | 0.803 | 0.732 | 902.3 |<br>
+| XGBoost | **0.842** | **0.762** | **799.8** |<br>
 
 **⭐ Key Findings <br>**
 - Linear models struggle to capture nonlinear relationships. <br>
