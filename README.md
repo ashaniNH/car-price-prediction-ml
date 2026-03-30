@@ -75,3 +75,11 @@ Performance metrics: <br>
 - xgboost <br>
 - ggplot2 <br>
 - Isolation Forest <br>
+
+**🚀 Results**
+Tree-based ensemble models outperform linear and regularized regression approaches, demonstrating strong predictive capability for used car valuation.
+
+**👩‍💻 Author**
+Ashani Madhushika
+BSc (Hons) Statistics Undergraduate — University of Colombo
+Interested in Machine Learning, Data Science, and Predictive Modeling.
