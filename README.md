@@ -1,33 +1,33 @@
 # car-price-prediction-ml
-Advanced machine learning analysis for predicting used car prices using feature engineering, regression models, Random Forest, and XGBoost.
-🚗 Car Price Prediction — Advanced Machine Learning Analysis
-📌 Project Overview
+Advanced machine learning analysis for predicting used car prices using feature engineering, regression models, Random Forest, and XGBoost.<br>
+🚗 Car Price Prediction — Advanced Machine Learning Analysis<br>
+📌 Project Overview <br>
 
-This project develops and evaluates advanced machine learning models to predict used car prices using the Kaggle Car Price Prediction Challenge dataset.
+This project develops and evaluates advanced machine learning models to predict used car prices using the Kaggle Car Price Prediction Challenge dataset. <br>
 
-The dataset contains 19,237 vehicles with 17 attributes describing vehicle characteristics such as manufacturer, model, production year, mileage, engine volume, fuel type, gearbox type, drive wheels, color, airbags, and interior features.
+The dataset contains 19,237 vehicles with 17 attributes describing vehicle characteristics such as manufacturer, model, production year, mileage, engine volume, fuel type, gearbox type, drive wheels, color, airbags, and interior features. <br>
 
-The objective is to estimate a car’s market value based on its attributes, enabling data-driven decision-making for buyers and sellers in the used car market.
+The objective is to estimate a car’s market value based on its attributes, enabling data-driven decision-making for buyers and sellers in the used car market. <br>
 
-📊 Dataset
-Source: https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge
-Observations: 19,237
-Features: 17 vehicle attributes
-Target Variable: LogPrice
+📊 Dataset <br>
+Source: https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge <br>
+Observations: 19,237 <br>
+Features: 17 vehicle attributes <br>
+Target Variable: LogPrice <br>
 
-Key variables include:
+Key variables include: <br>
 
-Manufacturer & Model
-Production Year
-Mileage
-Engine Volume
-Fuel Type
-Gear Box Type
-Drive Wheels
-Color
-Airbags
-Interior Features
-🔎 Workflow
+Manufacturer & Model <br>
+Production Year <br>
+Mileage <br>
+Engine Volume <br>
+Fuel Type <br>
+Gear Box Type <br>
+Drive Wheels <br>
+Color <br>
+Airbags <br>
+Interior Features <br>
+🔎 Workflow <br>
 1️⃣ Exploratory Data Analysis (EDA)
 Distribution analysis
 Missing value inspection
